@@ -1,31 +1,32 @@
 ## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Our passion for plants inspired us to create an app that enables fellow plant lovers to upload and share images and information about their plants. In this application users are able to create a collection of their plants and make posts. Plantr users can also view, like, and comment on posts belonging to other users. Our goal with this app is to create a space where new and existing plant parents can interact and share their love for all things plants.
+Why an app such as this can be helpful:
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+Raises awareness towards environmental topics.
+Serves as an educational resource for new and existing plant owners.
+Provides access to a community that is passionate about plants and their care.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+## Built With
+NodeJS
+Express
+Sequelize
+Mustache Templates
+Formidable
+JavaScript
+CSS
+ElephantSQL
+PostgreSQL
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="images/plantr.png?raw=true"/>
 
-### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Newsfeed.png?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+<img src="images/comment-like.png?raw=true"/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+For more details see [GitHub Repo](https://https://github.com/cristinahdz29/Plantr/).
