@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### GitHub Repository Links
 
 - [Meditation App](https://github.com/kjdonoghue/Meditation-App)
 - [PlantR](https://github.com/cristinahdz29/Plantr)
