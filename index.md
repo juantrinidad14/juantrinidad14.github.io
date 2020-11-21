@@ -8,7 +8,7 @@
 <img src="images/meditation_welcome.png?raw=true"/>
 
 ---
-[PlantR](/pdf/sample_presentation.pdf)
+[PlantR](/sample_page1)
 <img src="images/plantr.png?raw=true"/>
 
 ---
