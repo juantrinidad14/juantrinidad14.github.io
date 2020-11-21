@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Projects  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Meditation App](/sample_page)
+<img src="images/meditation_welcome.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[PlantR](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,11 +19,11 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 Title](https://github.com/kjdonoghue/Meditation-App)
+- [Project 2 Title](https://github.com/cristinahdz29/Plantr)
+//*- [Project 3 Title](http://example.com/)//
+//*- [Project 4 Title](http://example.com/)//
+//*- [Project 5 Title](http://example.com/)//
 
 ---
 
