@@ -14,4 +14,4 @@ Peacefully All the Time was created as a group front-end project for DigitalCraf
 
 
 
-For more details see [GitHub](https://https://github.com/kjdonoghue/Meditation-App/).
+For more details see [GitHub Repo](https://https://github.com/kjdonoghue/Meditation-App/).
