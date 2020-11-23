@@ -20,4 +20,4 @@ Firebase Firestore
 
 
 
-For more details see [GitHub Repo](https://https://github.com/kjdonoghue/Meditation-App/).
+For more details see [GitHub Repo](https://github.com/kjdonoghue/Meditation-App).
