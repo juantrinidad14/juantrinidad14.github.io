@@ -6,6 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I enjoy creating web application using JavaScript,React,Redux, and Node.JS.
   <br><br>
   <a href="https://www.linkedin.com/in/juan-trinidad">View My LinkedIn Profile</a> 
+  <a href="https://docs.google.com/document/d/11x5yPL_wdYg2PADQw0w4aLKzLfZaIu7xhyDEE5ClQ9U/edit?usp=sharingtheme: jekyll-theme-minimal">Dowload Resume download>Download Resume</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
