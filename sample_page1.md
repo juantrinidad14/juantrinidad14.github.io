@@ -30,4 +30,4 @@ PostgreSQL
 <img src="images/comment-like.png?raw=true"/>
 
 
-For more details see [GitHub Repo](https://github.com/cristinahdz29/Plantr).
+For more details see [GitHub Repo](http://github.com/cristinahdz29/Plantr).
