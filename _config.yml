@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/juan-trinidad">View My LinkedIn Profile</a> 
   <br>
-  <a href="https://docs.google.com/document/d/11x5yPL_wdYg2PADQw0w4aLKzLfZaIu7xhyDEE5ClQ9U/edit?usp=sharingtheme: jekyll-theme-minimal">View Resume</a>
+ [View and Download Resume](/pdf/Juan D. Trinidad Developer Resume.pdf)
   <br>
   <label>Email: juan_trinidad14@hotmail.com</label>
 theme: jekyll-theme-minimal
