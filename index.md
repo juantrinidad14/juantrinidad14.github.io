@@ -12,8 +12,12 @@
 <img src="images/plantr.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Shopping-Cart](http://example.com/)
+
+
+---
+[Project 4 Title](http://example.com/)
+
 
 ---
 
@@ -21,6 +25,8 @@
 
 - [Meditation App](https://github.com/kjdonoghue/Meditation-App)
 - [PlantR](https://github.com/cristinahdz29/Plantr)
+- [Shopping-Cart](https://shopping-cart-test1.herokuapp.com/)
+- [GoodTutor](https://github.com/DomWat/capstone)
 
 ---
 
