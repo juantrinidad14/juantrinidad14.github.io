@@ -12,7 +12,8 @@
 <img src="images/plantr.png?raw=true"/>
 
 ---
-[Shopping-Cart](http://example.com/)
+[Shopping-Cart](sample_page2)
+<img src="images/shopping-cart-main.png?raw=true"/>
 
 
 ---
