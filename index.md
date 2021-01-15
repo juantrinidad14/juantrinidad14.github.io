@@ -17,8 +17,8 @@
 
 
 ---
-[Project 4 Title](http://example.com/)
-
+[GoodTutor](sample_page3)
+<img src="images/goodtutor.png?raw=true"/>
 
 ---
 
